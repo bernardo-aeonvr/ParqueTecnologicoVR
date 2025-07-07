@@ -19,7 +19,6 @@ panorama_DA1C2D2F_D0F1_3FEC_41DF_8305118EF8A8.label = 21- Espaco_Maker_2_360
 panorama_DA1FBC6A_D0F1_1D94_41E2_AD44C9ACD81B.label = 22- Espaco_Maker_3_360
 panorama_DA1D5BDF_D0F7_1AAC_41D1_F4A65B9F5C2D.label = 3- Entrada_Principal_3_360
 panorama_DA1D9B3C_D0F7_3BEC_41D2_C89CAEB92136.label = 4- Mezanino_Entrada_1_360
-panorama_DA1D2B0E_D0F7_1BAC_41E0_ED2D11B4D4CC.label = 5- Mezanino_Entrada_2_360
 panorama_DA1DBB55_D0F0_FBBC_41C4_26E5E24C5384.label = 6- Entrada_Placa_360
 panorama_DA1C8C74_D0F1_1E7C_41D6_07BF31F16F43.label = 7- Entrada_Corredor_1_360
 panorama_DA1C4BD2_D0F1_3AB4_41E2_FB06CB55DA51.label = 8- Display_Meio_360
